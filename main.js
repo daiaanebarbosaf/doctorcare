@@ -1,5 +1,7 @@
 window.addEventListener('scroll', onScroll)
 
+const navigation = document.getElementById('navigation')
+
 onScroll()
 //Gerencia os Scrolls da página
 function onScroll() {
