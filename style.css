@@ -608,7 +608,6 @@ footer .social-links {
         filter: initial;
         text-transform: initial;
         text-align: initial;
-        line-height: initial;
         justify-content: initial;
         
     }
@@ -690,7 +689,7 @@ footer .social-links {
         background-color: var(--primary-color);
 
         position: relative;
-        bottom: -3.3rem;
+        bottom: -2.3rem;
         left: -0.5rem;
 
         display: block;
