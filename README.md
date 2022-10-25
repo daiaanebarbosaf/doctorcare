@@ -6,3 +6,8 @@ Esse projeto é a solução para uma boa comunicação entre o paciente e os mé
 <p align="center">
   <img alt="imagem-desktop" src=".github/area.png" width="100%">
 </p>
+
+
+<p align="center">
+  <img alt="imagem-desktop" src=".github/phone.png" width="100%">
+</p>
