@@ -19,3 +19,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - JavaScript
 
+## 💻 Projeto
+
+Esse projeto é a solução para uma boa comunicação entre o paciente e os médicos, criado durante a NLW8 Return.
