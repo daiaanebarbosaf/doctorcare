@@ -9,5 +9,5 @@ Esse projeto é a solução para uma boa comunicação entre o paciente e os mé
 
 
 <p align="center">
-  <img alt="imagem-desktop" src=".github/phone.png" width="100%">
+  <img alt="imagem-phone" src=".github/phone.png" width="100%">
 </p>
