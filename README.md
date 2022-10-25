@@ -4,5 +4,5 @@ Esse projeto é a solução para uma boa comunicação entre o paciente e os mé
 </p>
 
 <p align="center">
-  <img alt="imagem-desktop" src=".github/desktop.png" width="100%">
+  <img alt="imagem-desktop" src="./.github/desktop.png" width="100%">
 </p>
