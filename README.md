@@ -9,9 +9,7 @@ Esse projeto é a solução para uma boa comunicação entre os pacientes e méd
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-![prewiew](./prewiew.png)
-
-
+![prewiew](./.github/prewiew.PNG)
 
 <p align="center">
   <img alt="imagem-phone" src=".github/phone.png" width="100%">
