@@ -12,7 +12,7 @@ Esse projeto é a solução para uma boa comunicação entre os pacientes e méd
 ![prewiew](./.github/prewiew.PNG)
 
 <p align="center">
-  <img alt="imagem-phone" src="./.github/phone.PNG" width="100%">
+  <img alt="imagem-phone" src="./.github/phone.PNG" width="50%">
 </p>
 
 
