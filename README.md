@@ -9,9 +9,8 @@ Esse projeto é a solução para uma boa comunicação entre os pacientes e méd
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<p align="center">
-  <img alt="imagem-desktop" src=".github/area.png" width="100%">
-</p>
+![prewiew](./prewiew.png)
+
 
 
 <p align="center">
