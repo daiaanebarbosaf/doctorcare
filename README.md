@@ -4,6 +4,12 @@ Esse projeto é a solução para uma boa comunicação entre o paciente e os mé
 </p>
 
 <p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<p align="center">
   <img alt="imagem-desktop" src=".github/area.png" width="100%">
 </p>
 
