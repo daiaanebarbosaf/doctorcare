@@ -21,7 +21,8 @@ Esse projeto é a solução para uma boa comunicação entre os pacientes e méd
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
+- HTML
+- CSS
 - JavaScript
 
 ## 💻 Projeto
