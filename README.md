@@ -28,3 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Essa projeto é a solução para uma boa comunicação entre os pacientes e médicos, criado durante a NLW8 Return.
+
+---
+
+Feito por Daiane Farias 👋  [Me acompanhe nas redes sociais!](https://daiaanebarbosaf.github.io/rocketlinks/)
